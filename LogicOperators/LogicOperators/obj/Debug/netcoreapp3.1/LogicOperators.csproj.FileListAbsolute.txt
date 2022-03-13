@@ -1,0 +1,13 @@
+C:\Users\Jorge Eldis\source\repos\LogicOperators\LogicOperators\bin\Debug\netcoreapp3.1\LogicOperators.exe
+C:\Users\Jorge Eldis\source\repos\LogicOperators\LogicOperators\bin\Debug\netcoreapp3.1\LogicOperators.deps.json
+C:\Users\Jorge Eldis\source\repos\LogicOperators\LogicOperators\bin\Debug\netcoreapp3.1\LogicOperators.runtimeconfig.json
+C:\Users\Jorge Eldis\source\repos\LogicOperators\LogicOperators\bin\Debug\netcoreapp3.1\LogicOperators.runtimeconfig.dev.json
+C:\Users\Jorge Eldis\source\repos\LogicOperators\LogicOperators\bin\Debug\netcoreapp3.1\LogicOperators.dll
+C:\Users\Jorge Eldis\source\repos\LogicOperators\LogicOperators\bin\Debug\netcoreapp3.1\LogicOperators.pdb
+C:\Users\Jorge Eldis\source\repos\LogicOperators\LogicOperators\obj\Debug\netcoreapp3.1\LogicOperators.AssemblyInfoInputs.cache
+C:\Users\Jorge Eldis\source\repos\LogicOperators\LogicOperators\obj\Debug\netcoreapp3.1\LogicOperators.AssemblyInfo.cs
+C:\Users\Jorge Eldis\source\repos\LogicOperators\LogicOperators\obj\Debug\netcoreapp3.1\LogicOperators.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Eldis\source\repos\LogicOperators\LogicOperators\obj\Debug\netcoreapp3.1\LogicOperators.dll
+C:\Users\Jorge Eldis\source\repos\LogicOperators\LogicOperators\obj\Debug\netcoreapp3.1\LogicOperators.pdb
+C:\Users\Jorge Eldis\source\repos\LogicOperators\LogicOperators\obj\Debug\netcoreapp3.1\LogicOperators.genruntimeconfig.cache
+C:\Users\Jorge Eldis\source\repos\LogicOperators\LogicOperators\obj\Debug\netcoreapp3.1\LogicOperators.csprojAssemblyReference.cache
