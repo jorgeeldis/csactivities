@@ -1,0 +1,13 @@
+C:\MyStuff\Coding\C#\Comments\Comments\bin\Debug\netcoreapp3.1\Comments.exe
+C:\MyStuff\Coding\C#\Comments\Comments\bin\Debug\netcoreapp3.1\Comments.deps.json
+C:\MyStuff\Coding\C#\Comments\Comments\bin\Debug\netcoreapp3.1\Comments.runtimeconfig.json
+C:\MyStuff\Coding\C#\Comments\Comments\bin\Debug\netcoreapp3.1\Comments.runtimeconfig.dev.json
+C:\MyStuff\Coding\C#\Comments\Comments\bin\Debug\netcoreapp3.1\Comments.dll
+C:\MyStuff\Coding\C#\Comments\Comments\bin\Debug\netcoreapp3.1\Comments.pdb
+C:\MyStuff\Coding\C#\Comments\Comments\obj\Debug\netcoreapp3.1\Comments.csprojAssemblyReference.cache
+C:\MyStuff\Coding\C#\Comments\Comments\obj\Debug\netcoreapp3.1\Comments.AssemblyInfoInputs.cache
+C:\MyStuff\Coding\C#\Comments\Comments\obj\Debug\netcoreapp3.1\Comments.AssemblyInfo.cs
+C:\MyStuff\Coding\C#\Comments\Comments\obj\Debug\netcoreapp3.1\Comments.csproj.CoreCompileInputs.cache
+C:\MyStuff\Coding\C#\Comments\Comments\obj\Debug\netcoreapp3.1\Comments.dll
+C:\MyStuff\Coding\C#\Comments\Comments\obj\Debug\netcoreapp3.1\Comments.pdb
+C:\MyStuff\Coding\C#\Comments\Comments\obj\Debug\netcoreapp3.1\Comments.genruntimeconfig.cache
