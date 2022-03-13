@@ -1,0 +1,12 @@
+C:\MyStuff\Coding\C#\StaticClasses\StaticClasses\bin\Debug\netcoreapp3.1\StaticClasses.exe
+C:\MyStuff\Coding\C#\StaticClasses\StaticClasses\bin\Debug\netcoreapp3.1\StaticClasses.deps.json
+C:\MyStuff\Coding\C#\StaticClasses\StaticClasses\bin\Debug\netcoreapp3.1\StaticClasses.runtimeconfig.json
+C:\MyStuff\Coding\C#\StaticClasses\StaticClasses\bin\Debug\netcoreapp3.1\StaticClasses.runtimeconfig.dev.json
+C:\MyStuff\Coding\C#\StaticClasses\StaticClasses\bin\Debug\netcoreapp3.1\StaticClasses.dll
+C:\MyStuff\Coding\C#\StaticClasses\StaticClasses\bin\Debug\netcoreapp3.1\StaticClasses.pdb
+C:\MyStuff\Coding\C#\StaticClasses\StaticClasses\obj\Debug\netcoreapp3.1\StaticClasses.AssemblyInfoInputs.cache
+C:\MyStuff\Coding\C#\StaticClasses\StaticClasses\obj\Debug\netcoreapp3.1\StaticClasses.AssemblyInfo.cs
+C:\MyStuff\Coding\C#\StaticClasses\StaticClasses\obj\Debug\netcoreapp3.1\StaticClasses.csproj.CoreCompileInputs.cache
+C:\MyStuff\Coding\C#\StaticClasses\StaticClasses\obj\Debug\netcoreapp3.1\StaticClasses.dll
+C:\MyStuff\Coding\C#\StaticClasses\StaticClasses\obj\Debug\netcoreapp3.1\StaticClasses.pdb
+C:\MyStuff\Coding\C#\StaticClasses\StaticClasses\obj\Debug\netcoreapp3.1\StaticClasses.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\MyStuff\Coding\C#\Static\Static\bin\Debug\netcoreapp3.1\Static.exe
+C:\MyStuff\Coding\C#\Static\Static\bin\Debug\netcoreapp3.1\Static.deps.json
+C:\MyStuff\Coding\C#\Static\Static\bin\Debug\netcoreapp3.1\Static.runtimeconfig.json
+C:\MyStuff\Coding\C#\Static\Static\bin\Debug\netcoreapp3.1\Static.runtimeconfig.dev.json
+C:\MyStuff\Coding\C#\Static\Static\bin\Debug\netcoreapp3.1\Static.dll
+C:\MyStuff\Coding\C#\Static\Static\bin\Debug\netcoreapp3.1\Static.pdb
+C:\MyStuff\Coding\C#\Static\Static\obj\Debug\netcoreapp3.1\Static.csprojAssemblyReference.cache
+C:\MyStuff\Coding\C#\Static\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfoInputs.cache
+C:\MyStuff\Coding\C#\Static\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfo.cs
+C:\MyStuff\Coding\C#\Static\Static\obj\Debug\netcoreapp3.1\Static.csproj.CoreCompileInputs.cache
+C:\MyStuff\Coding\C#\Static\Static\obj\Debug\netcoreapp3.1\Static.dll
+C:\MyStuff\Coding\C#\Static\Static\obj\Debug\netcoreapp3.1\Static.pdb
+C:\MyStuff\Coding\C#\Static\Static\obj\Debug\netcoreapp3.1\Static.genruntimeconfig.cache
