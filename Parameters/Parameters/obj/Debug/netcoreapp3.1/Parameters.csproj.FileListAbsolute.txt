@@ -1,0 +1,13 @@
+C:\Users\Jorge Eldis\source\repos\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.exe
+C:\Users\Jorge Eldis\source\repos\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.deps.json
+C:\Users\Jorge Eldis\source\repos\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.json
+C:\Users\Jorge Eldis\source\repos\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.dev.json
+C:\Users\Jorge Eldis\source\repos\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.dll
+C:\Users\Jorge Eldis\source\repos\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.pdb
+C:\Users\Jorge Eldis\source\repos\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.csprojAssemblyReference.cache
+C:\Users\Jorge Eldis\source\repos\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfoInputs.cache
+C:\Users\Jorge Eldis\source\repos\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfo.cs
+C:\Users\Jorge Eldis\source\repos\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Eldis\source\repos\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.dll
+C:\Users\Jorge Eldis\source\repos\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.pdb
+C:\Users\Jorge Eldis\source\repos\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.genruntimeconfig.cache

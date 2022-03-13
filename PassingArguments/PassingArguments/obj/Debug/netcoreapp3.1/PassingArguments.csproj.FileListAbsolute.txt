@@ -1,0 +1,13 @@
+C:\Users\Jorge Eldis\source\repos\PassingArguments\PassingArguments\bin\Debug\netcoreapp3.1\PassingArguments.exe
+C:\Users\Jorge Eldis\source\repos\PassingArguments\PassingArguments\bin\Debug\netcoreapp3.1\PassingArguments.deps.json
+C:\Users\Jorge Eldis\source\repos\PassingArguments\PassingArguments\bin\Debug\netcoreapp3.1\PassingArguments.runtimeconfig.json
+C:\Users\Jorge Eldis\source\repos\PassingArguments\PassingArguments\bin\Debug\netcoreapp3.1\PassingArguments.runtimeconfig.dev.json
+C:\Users\Jorge Eldis\source\repos\PassingArguments\PassingArguments\bin\Debug\netcoreapp3.1\PassingArguments.dll
+C:\Users\Jorge Eldis\source\repos\PassingArguments\PassingArguments\bin\Debug\netcoreapp3.1\PassingArguments.pdb
+C:\Users\Jorge Eldis\source\repos\PassingArguments\PassingArguments\obj\Debug\netcoreapp3.1\PassingArguments.csprojAssemblyReference.cache
+C:\Users\Jorge Eldis\source\repos\PassingArguments\PassingArguments\obj\Debug\netcoreapp3.1\PassingArguments.AssemblyInfoInputs.cache
+C:\Users\Jorge Eldis\source\repos\PassingArguments\PassingArguments\obj\Debug\netcoreapp3.1\PassingArguments.AssemblyInfo.cs
+C:\Users\Jorge Eldis\source\repos\PassingArguments\PassingArguments\obj\Debug\netcoreapp3.1\PassingArguments.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Eldis\source\repos\PassingArguments\PassingArguments\obj\Debug\netcoreapp3.1\PassingArguments.dll
+C:\Users\Jorge Eldis\source\repos\PassingArguments\PassingArguments\obj\Debug\netcoreapp3.1\PassingArguments.pdb
+C:\Users\Jorge Eldis\source\repos\PassingArguments\PassingArguments\obj\Debug\netcoreapp3.1\PassingArguments.genruntimeconfig.cache

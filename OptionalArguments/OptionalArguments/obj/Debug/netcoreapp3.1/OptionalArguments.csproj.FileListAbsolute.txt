@@ -1,0 +1,13 @@
+C:\Users\Jorge Eldis\source\repos\OptionalArguments\OptionalArguments\bin\Debug\netcoreapp3.1\OptionalArguments.exe
+C:\Users\Jorge Eldis\source\repos\OptionalArguments\OptionalArguments\bin\Debug\netcoreapp3.1\OptionalArguments.deps.json
+C:\Users\Jorge Eldis\source\repos\OptionalArguments\OptionalArguments\bin\Debug\netcoreapp3.1\OptionalArguments.runtimeconfig.json
+C:\Users\Jorge Eldis\source\repos\OptionalArguments\OptionalArguments\bin\Debug\netcoreapp3.1\OptionalArguments.runtimeconfig.dev.json
+C:\Users\Jorge Eldis\source\repos\OptionalArguments\OptionalArguments\bin\Debug\netcoreapp3.1\OptionalArguments.dll
+C:\Users\Jorge Eldis\source\repos\OptionalArguments\OptionalArguments\bin\Debug\netcoreapp3.1\OptionalArguments.pdb
+C:\Users\Jorge Eldis\source\repos\OptionalArguments\OptionalArguments\obj\Debug\netcoreapp3.1\OptionalArguments.csprojAssemblyReference.cache
+C:\Users\Jorge Eldis\source\repos\OptionalArguments\OptionalArguments\obj\Debug\netcoreapp3.1\OptionalArguments.AssemblyInfoInputs.cache
+C:\Users\Jorge Eldis\source\repos\OptionalArguments\OptionalArguments\obj\Debug\netcoreapp3.1\OptionalArguments.AssemblyInfo.cs
+C:\Users\Jorge Eldis\source\repos\OptionalArguments\OptionalArguments\obj\Debug\netcoreapp3.1\OptionalArguments.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Eldis\source\repos\OptionalArguments\OptionalArguments\obj\Debug\netcoreapp3.1\OptionalArguments.dll
+C:\Users\Jorge Eldis\source\repos\OptionalArguments\OptionalArguments\obj\Debug\netcoreapp3.1\OptionalArguments.pdb
+C:\Users\Jorge Eldis\source\repos\OptionalArguments\OptionalArguments\obj\Debug\netcoreapp3.1\OptionalArguments.genruntimeconfig.cache
