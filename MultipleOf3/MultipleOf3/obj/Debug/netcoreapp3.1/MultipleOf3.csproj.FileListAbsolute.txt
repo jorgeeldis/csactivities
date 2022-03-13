@@ -1,0 +1,13 @@
+C:\Users\Jorge Eldis\source\repos\MultipleOf3\MultipleOf3\obj\Debug\netcoreapp3.1\MultipleOf3.csprojAssemblyReference.cache
+C:\Users\Jorge Eldis\source\repos\MultipleOf3\MultipleOf3\obj\Debug\netcoreapp3.1\MultipleOf3.AssemblyInfoInputs.cache
+C:\Users\Jorge Eldis\source\repos\MultipleOf3\MultipleOf3\obj\Debug\netcoreapp3.1\MultipleOf3.AssemblyInfo.cs
+C:\Users\Jorge Eldis\source\repos\MultipleOf3\MultipleOf3\obj\Debug\netcoreapp3.1\MultipleOf3.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Eldis\source\repos\MultipleOf3\MultipleOf3\bin\Debug\netcoreapp3.1\MultipleOf3.exe
+C:\Users\Jorge Eldis\source\repos\MultipleOf3\MultipleOf3\bin\Debug\netcoreapp3.1\MultipleOf3.deps.json
+C:\Users\Jorge Eldis\source\repos\MultipleOf3\MultipleOf3\bin\Debug\netcoreapp3.1\MultipleOf3.runtimeconfig.json
+C:\Users\Jorge Eldis\source\repos\MultipleOf3\MultipleOf3\bin\Debug\netcoreapp3.1\MultipleOf3.runtimeconfig.dev.json
+C:\Users\Jorge Eldis\source\repos\MultipleOf3\MultipleOf3\bin\Debug\netcoreapp3.1\MultipleOf3.dll
+C:\Users\Jorge Eldis\source\repos\MultipleOf3\MultipleOf3\bin\Debug\netcoreapp3.1\MultipleOf3.pdb
+C:\Users\Jorge Eldis\source\repos\MultipleOf3\MultipleOf3\obj\Debug\netcoreapp3.1\MultipleOf3.dll
+C:\Users\Jorge Eldis\source\repos\MultipleOf3\MultipleOf3\obj\Debug\netcoreapp3.1\MultipleOf3.pdb
+C:\Users\Jorge Eldis\source\repos\MultipleOf3\MultipleOf3\obj\Debug\netcoreapp3.1\MultipleOf3.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\MyStuff\Coding\C#\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+C:\MyStuff\Coding\C#\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+C:\MyStuff\Coding\C#\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+C:\MyStuff\Coding\C#\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+C:\MyStuff\Coding\C#\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+C:\MyStuff\Coding\C#\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+C:\MyStuff\Coding\C#\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+C:\MyStuff\Coding\C#\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+C:\MyStuff\Coding\C#\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+C:\MyStuff\Coding\C#\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+C:\MyStuff\Coding\C#\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+C:\MyStuff\Coding\C#\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+C:\MyStuff\Coding\C#\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
