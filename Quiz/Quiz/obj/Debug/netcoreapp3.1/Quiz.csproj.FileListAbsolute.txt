@@ -1,0 +1,12 @@
+C:\MyStuff\Coding\C#\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.exe
+C:\MyStuff\Coding\C#\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.deps.json
+C:\MyStuff\Coding\C#\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.runtimeconfig.json
+C:\MyStuff\Coding\C#\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.runtimeconfig.dev.json
+C:\MyStuff\Coding\C#\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.dll
+C:\MyStuff\Coding\C#\Quiz\Quiz\bin\Debug\netcoreapp3.1\Quiz.pdb
+C:\MyStuff\Coding\C#\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.AssemblyInfoInputs.cache
+C:\MyStuff\Coding\C#\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.AssemblyInfo.cs
+C:\MyStuff\Coding\C#\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.csproj.CoreCompileInputs.cache
+C:\MyStuff\Coding\C#\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.dll
+C:\MyStuff\Coding\C#\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.pdb
+C:\MyStuff\Coding\C#\Quiz\Quiz\obj\Debug\netcoreapp3.1\Quiz.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\MyStuff\Coding\C#\PrintingText\PrintingText\bin\Debug\netcoreapp3.1\PrintingText.exe
+C:\MyStuff\Coding\C#\PrintingText\PrintingText\bin\Debug\netcoreapp3.1\PrintingText.deps.json
+C:\MyStuff\Coding\C#\PrintingText\PrintingText\bin\Debug\netcoreapp3.1\PrintingText.runtimeconfig.json
+C:\MyStuff\Coding\C#\PrintingText\PrintingText\bin\Debug\netcoreapp3.1\PrintingText.runtimeconfig.dev.json
+C:\MyStuff\Coding\C#\PrintingText\PrintingText\bin\Debug\netcoreapp3.1\PrintingText.dll
+C:\MyStuff\Coding\C#\PrintingText\PrintingText\bin\Debug\netcoreapp3.1\PrintingText.pdb
+C:\MyStuff\Coding\C#\PrintingText\PrintingText\obj\Debug\netcoreapp3.1\PrintingText.csprojAssemblyReference.cache
+C:\MyStuff\Coding\C#\PrintingText\PrintingText\obj\Debug\netcoreapp3.1\PrintingText.AssemblyInfoInputs.cache
+C:\MyStuff\Coding\C#\PrintingText\PrintingText\obj\Debug\netcoreapp3.1\PrintingText.AssemblyInfo.cs
+C:\MyStuff\Coding\C#\PrintingText\PrintingText\obj\Debug\netcoreapp3.1\PrintingText.csproj.CoreCompileInputs.cache
+C:\MyStuff\Coding\C#\PrintingText\PrintingText\obj\Debug\netcoreapp3.1\PrintingText.dll
+C:\MyStuff\Coding\C#\PrintingText\PrintingText\obj\Debug\netcoreapp3.1\PrintingText.pdb
+C:\MyStuff\Coding\C#\PrintingText\PrintingText\obj\Debug\netcoreapp3.1\PrintingText.genruntimeconfig.cache
