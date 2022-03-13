@@ -1,0 +1,13 @@
+C:\Users\Jorge Eldis\source\repos\If-Else\If-Else\bin\Debug\netcoreapp3.1\If-Else.exe
+C:\Users\Jorge Eldis\source\repos\If-Else\If-Else\bin\Debug\netcoreapp3.1\If-Else.deps.json
+C:\Users\Jorge Eldis\source\repos\If-Else\If-Else\bin\Debug\netcoreapp3.1\If-Else.runtimeconfig.json
+C:\Users\Jorge Eldis\source\repos\If-Else\If-Else\bin\Debug\netcoreapp3.1\If-Else.runtimeconfig.dev.json
+C:\Users\Jorge Eldis\source\repos\If-Else\If-Else\bin\Debug\netcoreapp3.1\If-Else.dll
+C:\Users\Jorge Eldis\source\repos\If-Else\If-Else\bin\Debug\netcoreapp3.1\If-Else.pdb
+C:\Users\Jorge Eldis\source\repos\If-Else\If-Else\obj\Debug\netcoreapp3.1\If-Else.csprojAssemblyReference.cache
+C:\Users\Jorge Eldis\source\repos\If-Else\If-Else\obj\Debug\netcoreapp3.1\If-Else.AssemblyInfoInputs.cache
+C:\Users\Jorge Eldis\source\repos\If-Else\If-Else\obj\Debug\netcoreapp3.1\If-Else.AssemblyInfo.cs
+C:\Users\Jorge Eldis\source\repos\If-Else\If-Else\obj\Debug\netcoreapp3.1\If-Else.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Eldis\source\repos\If-Else\If-Else\obj\Debug\netcoreapp3.1\If-Else.dll
+C:\Users\Jorge Eldis\source\repos\If-Else\If-Else\obj\Debug\netcoreapp3.1\If-Else.pdb
+C:\Users\Jorge Eldis\source\repos\If-Else\If-Else\obj\Debug\netcoreapp3.1\If-Else.genruntimeconfig.cache

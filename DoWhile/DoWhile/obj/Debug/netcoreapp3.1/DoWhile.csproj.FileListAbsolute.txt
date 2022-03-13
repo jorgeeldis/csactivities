@@ -1,0 +1,13 @@
+C:\Users\Jorge Eldis\source\repos\DoWhile\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.exe
+C:\Users\Jorge Eldis\source\repos\DoWhile\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.deps.json
+C:\Users\Jorge Eldis\source\repos\DoWhile\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.runtimeconfig.json
+C:\Users\Jorge Eldis\source\repos\DoWhile\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.runtimeconfig.dev.json
+C:\Users\Jorge Eldis\source\repos\DoWhile\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.dll
+C:\Users\Jorge Eldis\source\repos\DoWhile\DoWhile\bin\Debug\netcoreapp3.1\DoWhile.pdb
+C:\Users\Jorge Eldis\source\repos\DoWhile\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.csprojAssemblyReference.cache
+C:\Users\Jorge Eldis\source\repos\DoWhile\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.AssemblyInfoInputs.cache
+C:\Users\Jorge Eldis\source\repos\DoWhile\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.AssemblyInfo.cs
+C:\Users\Jorge Eldis\source\repos\DoWhile\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Eldis\source\repos\DoWhile\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.dll
+C:\Users\Jorge Eldis\source\repos\DoWhile\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.pdb
+C:\Users\Jorge Eldis\source\repos\DoWhile\DoWhile\obj\Debug\netcoreapp3.1\DoWhile.genruntimeconfig.cache
